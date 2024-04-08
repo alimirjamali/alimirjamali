@@ -1,4 +1,6 @@
 ### Hi there 👋
 
-There is nothing here. I am sleeping. Don't wake me up. Please go away 😴
+After being away from professional programming for almost two decades, it is the
+time to wake-up from hibernation. Hopefully doing some constructive and useful
+work.
 
